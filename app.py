@@ -34,4 +34,4 @@ if st.button("Generate Output"):
     else:
         st.write("Please select a single or several symptoms from the dropdown menu.")
 
-st.caption("This reasoning support does not replace clinical expertise. It is only for experimental use.")
+st.caption("This reasoning support does not replace clinical expertise. It is for experimental use only.")
