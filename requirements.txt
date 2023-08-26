@@ -1,3 +1,4 @@
+clarifai
 clarifai-grpc
 streamlit
 streamlit-chat
