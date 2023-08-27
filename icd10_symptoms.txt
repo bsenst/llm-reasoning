@@ -1,0 +1,892 @@
+Abnormalities of heart beat
+Tachycardia, unspecified
+Bradycardia, unspecified
+Palpitations
+Other abnormalities of heart beat
+Unspecified abnormalities of heart beat
+Cardiac murmurs and other cardiac sounds
+Benign and innocent cardiac murmurs
+Cardiac murmur, unspecified
+Other cardiac sounds
+Abnormal blood-pressure reading, without diagnosis
+Elevated blood-pressure reading, without diagnosis of hypertension
+Nonspecific low blood-pressure reading
+Hemorrhage from respiratory passages
+Epistaxis
+Hemorrhage from throat
+Hemoptysis
+Hemorrhage from other sites in respiratory passages
+Acute idiopathic pulmonary hemorrhage in infants
+Hemorrhage from other sites in respiratory passages
+Hemorrhage from respiratory passages, unspecified
+Cough
+Abnormalities of breathing
+Dyspnea
+Dyspnea, unspecified
+Orthopnea
+Shortness of breath
+Acute respiratory distress
+Other forms of dyspnea
+Stridor
+Wheezing
+Periodic breathing
+Hyperventilation
+Mouth breathing
+Hiccough
+Sneezing
+Other abnormalities of breathing
+Apnea, not elsewhere classified
+Tachypnea, not elsewhere classified
+Snoring
+Other abnormalities of breathing
+Unspecified abnormalities of breathing
+Pain in throat and chest
+Pain in throat
+Chest pain on breathing
+Precordial pain
+Other chest pain
+Pleurodynia
+Intercostal pain
+Other chest pain
+Chest pain, unspecified
+Other symptoms and signs involving the circulatory and respiratory system
+Asphyxia and hypoxemia
+Asphyxia
+Hypoxemia
+Pleurisy
+Respiratory arrest
+Abnormal sputum
+Other specified symptoms and signs involving the circulatory and respiratory systems
+Nasal congestion
+Postnasal drip
+Other specified symptoms and signs involving the circulatory and respiratory systems
+Abdominal and pelvic pain
+Acute abdomen
+Pain localized to upper abdomen
+Upper abdominal pain, unspecified
+Right upper quadrant pain
+Left upper quadrant pain
+Epigastric pain
+Pelvic and perineal pain
+Pain localized to other parts of lower abdomen
+Lower abdominal pain, unspecified
+Right lower quadrant pain
+Left lower quadrant pain
+Periumbilical pain
+Other abdominal pain
+Abdominal tenderness
+Right upper quadrant abdominal tenderness
+Left upper quadrant abdominal tenderness
+Right lower quadrant abdominal tenderness
+Left lower quadrant abdominal tenderness
+Periumbilic abdominal tenderness
+Epigastric abdominal tenderness
+Generalized abdominal tenderness
+Abdominal tenderness, unspecified site
+Rebound abdominal tenderness
+Right upper quadrant rebound abdominal tenderness
+Left upper quadrant rebound abdominal tenderness
+Right lower quadrant rebound abdominal tenderness
+Left lower quadrant rebound abdominal tenderness
+Periumbilic rebound abdominal tenderness
+Epigastric rebound abdominal tenderness
+Generalized rebound abdominal tenderness
+Rebound abdominal tenderness, unspecified site
+Colic
+Generalized abdominal pain
+Unspecified abdominal pain
+Nausea and vomiting
+Nausea
+Vomiting
+Vomiting, unspecified
+Vomiting without nausea
+Projectile vomiting
+Vomiting of fecal matter
+Bilious vomiting
+Nausea with vomiting, unspecified
+Heartburn
+Aphagia and dysphagia
+Aphagia
+Dysphagia
+Dysphagia, unspecified
+Dysphagia, oral phase
+Dysphagia, oropharyngeal phase
+Dysphagia, pharyngeal phase
+Dysphagia, pharyngoesophageal phase
+Other dysphagia
+Flatulence and related conditions
+Abdominal distension (gaseous)
+Gas pain
+Eructation
+Flatulence
+Fecal incontinence
+Incomplete defecation
+Fecal smearing
+Fecal urgency
+Full incontinence of feces
+Hepatomegaly and splenomegaly, not elsewhere classified
+Hepatomegaly, not elsewhere classified
+Splenomegaly, not elsewhere classified
+Hepatomegaly with splenomegaly, not elsewhere classified
+Unspecified jaundice
+Ascites
+Malignant ascites
+Other ascites
+Other symptoms and signs involving the digestive system and abdomen
+Intra-abdominal and pelvic swelling, mass and lump
+Intra-abdominal and pelvic swelling, mass and lump, unspecified site
+Right upper quadrant abdominal swelling, mass and lump
+Left upper quadrant abdominal swelling, mass and lump
+Right lower quadrant abdominal swelling, mass and lump
+Left lower quadrant abdominal swelling, mass and lump
+Periumbilic swelling, mass or lump
+Epigastric swelling, mass or lump
+Generalized intra-abdominal and pelvic swelling, mass and lump
+Other intra-abdominal and pelvic swelling, mass and lump
+Abnormal bowel sounds
+Absent bowel sounds
+Hyperactive bowel sounds
+Other abnormal bowel sounds
+Visible peristalsis
+Abdominal rigidity
+Abdominal rigidity, unspecified site
+Right upper quadrant abdominal rigidity
+Left upper quadrant abdominal rigidity
+Right lower quadrant abdominal rigidity
+Left lower quadrant abdominal rigidity
+Periumbilic abdominal rigidity
+Epigastric abdominal rigidity
+Generalized abdominal rigidity
+Change in bowel habit
+Other fecal abnormalities
+Halitosis
+Diarrhea, unspecified
+Other specified symptoms and signs involving the digestive system and abdomen
+Disturbances of skin sensation
+Anesthesia of skin
+Hypoesthesia of skin
+Paresthesia of skin
+Hyperesthesia
+Other disturbances of skin sensation
+Unspecified disturbances of skin sensation
+Rash and other nonspecific skin eruption
+Localized swelling, mass and lump of skin and subcutaneous tissue
+Localized swelling, mass and lump, head
+Localized swelling, mass and lump, neck
+Localized swelling, mass and lump, trunk
+Localized swelling, mass and lump, upper limb
+Localized swelling, mass and lump, unspecified upper limb
+Localized swelling, mass and lump, right upper limb
+Localized swelling, mass and lump, left upper limb
+Localized swelling, mass and lump, upper limb, bilateral
+Localized swelling, mass and lump, lower limb
+Localized swelling, mass and lump, unspecified lower limb
+Localized swelling, mass and lump, right lower limb
+Localized swelling, mass and lump, left lower limb
+Localized swelling, mass and lump, lower limb, bilateral
+Localized swelling, mass and lump, unspecified
+Other skin changes
+Cyanosis
+Pallor
+Flushing
+Spontaneous ecchymoses
+Changes in skin texture
+Other skin changes
+Unspecified skin changes
+Abnormal involuntary movements
+Abnormal head movements
+Tremor, unspecified
+Cramp and spasm
+Fasciculation
+Other abnormal involuntary movements
+Unspecified abnormal involuntary movements
+Abnormalities of gait and mobility
+Ataxic gait
+Paralytic gait
+Difficulty in walking, not elsewhere classified
+Other abnormalities of gait and mobility
+Unsteadiness on feet
+Other abnormalities of gait and mobility
+Unspecified abnormalities of gait and mobility
+Other lack of coordination
+Ataxia, unspecified
+Other lack of coordination
+Unspecified lack of coordination
+Other symptoms and signs involving the nervous and musculoskeletal systems
+Tetany
+Meningismus
+Abnormal reflex
+Abnormal posture
+Clicking hip
+Transient paralysis
+Repeated falls
+National Institutes of Health Stroke Scale (NIHSS) score
+NIHSS score 0-9
+NIHSS score 0
+NIHSS score 1
+NIHSS score 2
+NIHSS score 3
+NIHSS score 4
+NIHSS score 5
+NIHSS score 6
+NIHSS score 7
+NIHSS score 8
+NIHSS score 9
+NIHSS score 10-19
+NIHSS score 10
+NIHSS score 11
+NIHSS score 12
+NIHSS score 13
+NIHSS score 14
+NIHSS score 15
+NIHSS score 16
+NIHSS score 17
+NIHSS score 18
+NIHSS score 19
+NIHSS score 20-29
+NIHSS score 20
+NIHSS score 21
+NIHSS score 22
+NIHSS score 23
+NIHSS score 24
+NIHSS score 25
+NIHSS score 26
+NIHSS score 27
+NIHSS score 28
+NIHSS score 29
+NIHSS score 30-39
+NIHSS score 30
+NIHSS score 31
+NIHSS score 32
+NIHSS score 33
+NIHSS score 34
+NIHSS score 35
+NIHSS score 36
+NIHSS score 37
+NIHSS score 38
+NIHSS score 39
+NIHSS score 40-42
+NIHSS score 40
+NIHSS score 41
+NIHSS score 42
+Other symptoms and signs involving the nervous and musculoskeletal systems
+Other symptoms and signs involving the nervous system
+Facial weakness
+Other symptoms and signs involving the nervous system
+Other symptoms and signs involving the musculoskeletal system
+Loss of height
+Ocular torticollis
+Other symptoms and signs involving the musculoskeletal system
+Unspecified symptoms and signs involving the nervous and musculoskeletal systems
+Unspecified symptoms and signs involving the nervous system
+Unspecified symptoms and signs involving the musculoskeletal system
+Pain associated with micturition
+Dysuria
+Vesical tenesmus
+Painful micturition, unspecified
+Hematuria
+Gross hematuria
+Benign essential microscopic hematuria
+Other microscopic hematuria
+Asymptomatic microscopic hematuria
+Other microscopic hematuria
+Hematuria, unspecified
+Unspecified urinary incontinence
+Retention of urine
+Drug induced retention of urine
+Other retention of urine
+Retention of urine, unspecified
+Anuria and oliguria
+Polyuria
+Frequency of micturition
+Nocturia
+Other polyuria
+Urethral discharge
+Urethral discharge without blood
+Hematospermia
+Urethral discharge, unspecified
+Sexual dysfunction, unspecified
+Other and unspecified symptoms and signs involving the genitourinary system
+Extravasation of urine
+Other difficulties with micturition
+Hesitancy of micturition
+Poor urinary stream
+Splitting of urinary stream
+Feeling of incomplete bladder emptying
+Urgency of urination
+Straining to void
+Other difficulties with micturition
+Need to immediately re-void
+Position dependent micturition
+Other difficulties with micturition
+Extrarenal uremia
+Other symptoms and signs involving the genitourinary system
+Functional urinary incontinence
+Chronic bladder pain
+Unilateral non-palpable testicle
+Bilateral non-palpable testicles
+Other symptoms and signs involving the genitourinary system
+Unspecified symptoms and signs involving the genitourinary system
+Somnolence, stupor and coma
+Somnolence
+Stupor
+Coma
+Unspecified coma
+Coma scale, eyes open
+Coma scale, eyes open, never
+Coma scale, eyes open, never, unspecified time
+Coma scale, eyes open, never, in the field [EMT or ambulance]
+Coma scale, eyes open, never, at arrival to emergency department
+Coma scale, eyes open, never, at hospital admission
+Coma scale, eyes open, never, 24 hours or more after hospital admission
+Coma scale, eyes open, to pain
+Coma scale, eyes open, to pain, unspecified time
+Coma scale, eyes open, to pain, in the field [EMT or ambulance]
+Coma scale, eyes open, to pain, at arrival to emergency department
+Coma scale, eyes open, to pain, at hospital admission
+Coma scale, eyes open, to pain, 24 hours or more after hospital admission
+Coma scale, eyes open, to sound
+Coma scale, eyes open, to sound, unspecified time
+Coma scale, eyes open, to sound, in the field [EMT or ambulance]
+Coma scale, eyes open, to sound, at arrival to emergency department
+Coma scale, eyes open, to sound, at hospital admission
+Coma scale, eyes open, to sound, 24 hours or more after hospital admission
+Coma scale, eyes open, spontaneous
+Coma scale, eyes open, spontaneous, unspecified time
+Coma scale, eyes open, spontaneous, in the field [EMT or ambulance]
+Coma scale, eyes open, spontaneous, at arrival to emergency department
+Coma scale, eyes open, spontaneous, at hospital admission
+Coma scale, eyes open, spontaneous, 24 hours or more after hospital admission
+Coma scale, best verbal response
+Coma scale, best verbal response, none
+Coma scale, best verbal response, none, unspecified time
+Coma scale, best verbal response, none, in the field [EMT or ambulance]
+Coma scale, best verbal response, none, at arrival to emergency department
+Coma scale, best verbal response, none, at hospital admission
+Coma scale, best verbal response, none, 24 hours or more after hospital admission
+Coma scale, best verbal response, incomprehensible words
+Coma scale, best verbal response, incomprehensible words, unspecified time
+Coma scale, best verbal response, incomprehensible words, in the field [EMT or ambulance]
+Coma scale, best verbal response, incomprehensible words, at arrival to emergency department
+Coma scale, best verbal response, incomprehensible words, at hospital admission
+Coma scale, best verbal response, incomprehensible words, 24 hours or more after hospital admission
+Coma scale, best verbal response, inappropriate words
+Coma scale, best verbal response, inappropriate words, unspecified time
+Coma scale, best verbal response, inappropriate words, in the field [EMT or ambulance]
+Coma scale, best verbal response, inappropriate words, at arrival to emergency department
+Coma scale, best verbal response, inappropriate words, at hospital admission
+Coma scale, best verbal response, inappropriate words, 24 hours or more after hospital admission
+Coma scale, best verbal response, confused conversation
+Coma scale, best verbal response, confused conversation, unspecified time
+Coma scale, best verbal response, confused conversation, in the field [EMT or ambulance]
+Coma scale, best verbal response, confused conversation, at arrival to emergency department
+Coma scale, best verbal response, confused conversation, at hospital admission
+Coma scale, best verbal response, confused conversation, 24 hours or more after hospital admission
+Coma scale, best verbal response, oriented
+Coma scale, best verbal response, oriented, unspecified time
+Coma scale, best verbal response, oriented, in the field [EMT or ambulance]
+Coma scale, best verbal response, oriented, at arrival to emergency department
+Coma scale, best verbal response, oriented, at hospital admission
+Coma scale, best verbal response, oriented, 24 hours or more after hospital admission
+Coma scale, best motor response
+Coma scale, best motor response, none
+Coma scale, best motor response, none, unspecified time
+Coma scale, best motor response, none, in the field [EMT or ambulance]
+Coma scale, best motor response, none, at arrival to emergency department
+Coma scale, best motor response, none, at hospital admission
+Coma scale, best motor response, none, 24 hours or more after hospital admission
+Coma scale, best motor response, extension
+Coma scale, best motor response, extension, unspecified time
+Coma scale, best motor response, extension, in the field [EMT or ambulance]
+Coma scale, best motor response, extension, at arrival to emergency department
+Coma scale, best motor response, extension, at hospital admission
+Coma scale, best motor response, extension, 24 hours or more after hospital admission
+Coma scale, best motor response, abnormal flexion
+Coma scale, best motor response, abnormal flexion, unspecified time
+Coma scale, best motor response, abnormal flexion, in the field [EMT or ambulance]
+Coma scale, best motor response, abnormal flexion, at arrival to emergency department
+Coma scale, best motor response, abnormal flexion, at hospital admission
+Coma scale, best motor response, abnormal flexion, 24 hours or more after hospital admission
+Coma scale, best motor response, flexion withdrawal
+Coma scale, best motor response, flexion withdrawal, unspecified time
+Coma scale, best motor response, flexion withdrawal, in the field [EMT or ambulance]
+Coma scale, best motor response, flexion withdrawal, at arrival to emergency department
+Coma scale, best motor response, flexion withdrawal, at hospital admission
+Coma scale, best motor response, flexion withdrawal, 24 hours or more after hospital admission
+Coma scale, best motor response, localizes pain
+Coma scale, best motor response, localizes pain, unspecified time
+Coma scale, best motor response, localizes pain, in the field [EMT or ambulance]
+Coma scale, best motor response, localizes pain, at arrival to emergency department
+Coma scale, best motor response, localizes pain, at hospital admission
+Coma scale, best motor response, localizes pain, 24 hours or more after hospital admission
+Coma scale, best motor response, obeys commands
+Coma scale, best motor response, obeys commands, unspecified time
+Coma scale, best motor response, obeys commands, in the field [EMT or ambulance]
+Coma scale, best motor response, obeys commands, at arrival to emergency department
+Coma scale, best motor response, obeys commands, at hospital admission
+Coma scale, best motor response, obeys commands, 24 hours or more after hospital admission
+Glasgow coma scale, total score
+Glasgow coma scale score 13-15
+Glasgow coma scale score 13-15, unspecified time
+Glasgow coma scale score 13-15, in the field [EMT or ambulance]
+Glasgow coma scale score 13-15, at arrival to emergency department
+Glasgow coma scale score 13-15, at hospital admission
+Glasgow coma scale score 13-15, 24 hours or more after hospital admission
+Glasgow coma scale score 9-12
+Glasgow coma scale score 9-12, unspecified time
+Glasgow coma scale score 9-12, in the field [EMT or ambulance]
+Glasgow coma scale score 9-12, at arrival to emergency department
+Glasgow coma scale score 9-12, at hospital admission
+Glasgow coma scale score 9-12, 24 hours or more after hospital admission
+Glasgow coma scale score 3-8
+Glasgow coma scale score 3-8, unspecified time
+Glasgow coma scale score 3-8, in the field [EMT or ambulance]
+Glasgow coma scale score 3-8, at arrival to emergency department
+Glasgow coma scale score 3-8, at hospital admission
+Glasgow coma scale score 3-8, 24 hours or more after hospital admission
+Other coma, without documented Glasgow coma scale score, or with partial score reported
+Other coma, without documented Glasgow coma scale score, or with partial score reported, unspecified time
+Other coma, without documented Glasgow coma scale score, or with partial score reported, in the field [EMT or ambulance]
+Other coma, without documented Glasgow coma scale score, or with partial score reported, at arrival to emergency department
+Other coma, without documented Glasgow coma scale score, or with partial score reported, at hospital admission
+Other coma, without documented Glasgow coma scale score, or with partial score reported, 24 hours or more after hospital admission
+Persistent vegetative state
+Transient alteration of awareness
+Other symptoms and signs involving cognitive functions and awareness
+Disorientation, unspecified
+Anterograde amnesia
+Retrograde amnesia
+Other amnesia
+Neurologic neglect syndrome
+Other symptoms and signs involving cognitive functions and awareness
+Age-related cognitive decline
+Altered mental status, unspecified
+Borderline intellectual functioning
+Other specified cognitive deficit
+Attention and concentration deficit
+Cognitive communication deficit
+Visuospatial deficit
+Psychomotor deficit
+Frontal lobe and executive function deficit
+Other symptoms and signs involving cognitive functions and awareness
+Unspecified symptoms and signs involving cognitive functions and awareness
+Dizziness and giddiness
+Disturbances of smell and taste
+Anosmia
+Parosmia
+Parageusia
+Other disturbances of smell and taste
+Unspecified disturbances of smell and taste
+Other symptoms and signs involving general sensations and perceptions
+Auditory hallucinations
+Visual hallucinations
+Other hallucinations
+Hallucinations, unspecified
+Other symptoms and signs involving general sensations and perceptions
+Unspecified symptoms and signs involving general sensations and perceptions
+Symptoms and signs involving emotional state
+Nervousness
+Restlessness and agitation
+Unhappiness
+Demoralization and apathy
+Irritability and anger
+Hostility
+Violent behavior
+State of emotional shock and stress, unspecified
+Other symptoms and signs involving emotional state
+Low self-esteem
+Worries
+Excessive crying of child, adolescent or adult
+Anhedonia
+Homicidal and suicidal ideations
+Homicidal ideations
+Suicidal ideations
+Emotional lability
+Impulsiveness
+Other symptoms and signs involving emotional state
+Symptoms and signs involving appearance and behavior
+Very low level of personal hygiene
+Bizarre personal appearance
+Strange and inexplicable behavior
+Overactivity
+Slowness and poor responsiveness
+Suspiciousness and marked evasiveness
+Undue concern and preoccupation with stressful events
+Verbosity and circumstantial detail obscuring reason for contact
+Other symptoms and signs involving appearance and behavior
+Obsessive-compulsive behavior
+Other symptoms and signs involving appearance and behavior
+Speech disturbances, not elsewhere classified
+Dysphasia and aphasia
+Aphasia
+Dysphasia
+Dysarthria and anarthria
+Other speech disturbances
+Slurred speech
+Fluency disorder in conditions classified elsewhere
+Other speech disturbances
+Unspecified speech disturbances
+Dyslexia and other symbolic dysfunctions, not elsewhere classified
+Dyslexia and alexia
+Agnosia
+Apraxia
+Visual agnosia
+Other symbolic dysfunctions
+Unspecified symbolic dysfunctions
+Voice and resonance disorders
+Dysphonia
+Aphonia
+Hypernasality and hyponasality
+Hypernasality
+Hyponasality
+Other voice and resonance disorders
+Unspecified voice and resonance disorder
+Fever of other and unknown origin
+Drug induced fever
+Other specified fever
+Fever presenting with conditions classified elsewhere
+Postprocedural fever
+Postvaccination fever
+Febrile nonhemolytic transfusion reaction
+Fever, unspecified
+Headache
+Pain, unspecified
+Malaise and fatigue
+Neoplastic (malignant) related fatigue
+Weakness
+Functional quadriplegia
+Other malaise and fatigue
+Other malaise
+Chronic fatigue, unspecified
+Other fatigue
+Age-related physical debility
+Syncope and collapse
+Convulsions, not elsewhere classified
+Febrile convulsions
+Simple febrile convulsions
+Complex febrile convulsions
+Post traumatic seizures
+Unspecified convulsions
+Shock, not elsewhere classified
+Cardiogenic shock
+Hypovolemic shock
+Other shock
+Shock, unspecified
+Hemorrhage, not elsewhere classified
+Enlarged lymph nodes
+Localized enlarged lymph nodes
+Generalized enlarged lymph nodes
+Enlarged lymph nodes, unspecified
+Edema, not elsewhere classified
+Localized edema
+Generalized edema
+Edema, unspecified
+Generalized hyperhidrosis
+Lack of expected normal physiological development in childhood and adults
+Delayed milestone in childhood
+Other and unspecified lack of expected normal physiological development in childhood
+Unspecified lack of expected normal physiological development in childhood
+Failure to thrive (child)
+Short stature (child)
+Other lack of expected normal physiological development in childhood
+Adult failure to thrive
+Symptoms and signs concerning food and fluid intake
+Anorexia
+Polydipsia
+Polyphagia
+Feeding difficulties
+Abnormal weight loss
+Abnormal weight gain
+Underweight
+Other symptoms and signs concerning food and fluid intake
+Cachexia
+Symptoms and signs specifically associated with systemic inflammation and infection
+Systemic inflammatory response syndrome (SIRS) of non-infectious origin
+Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction
+Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction
+Severe sepsis
+Severe sepsis without septic shock
+Severe sepsis with septic shock
+Other general symptoms and signs
+Hypothermia, not associated with low environmental temperature
+Nonspecific symptoms peculiar to infancy
+Excessive crying of infant (baby)
+Fussy infant (baby)
+Apparent life threatening event in infant (ALTE)
+Other nonspecific symptoms peculiar to infancy
+Dry mouth, unspecified
+Clubbing of fingers
+Other general symptoms and signs
+Early satiety
+Decreased libido
+Chills (without fever)
+Jaw pain
+Other general symptoms and signs
+Illness, unspecified
+Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity
+Elevated erythrocyte sedimentation rate
+Abnormal plasma viscosity
+Abnormality of red blood cells
+Precipitous drop in hematocrit
+Other abnormality of red blood cells
+Elevated blood glucose level
+Abnormal glucose
+Impaired fasting glucose
+Impaired glucose tolerance (oral)
+Prediabetes
+Other abnormal glucose
+Hyperglycemia, unspecified
+Abnormal serum enzyme levels
+Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]
+Abnormal levels of other serum enzymes
+Abnormal serum enzyme level, unspecified
+Inconclusive laboratory evidence of human immunodeficiency virus [HIV]
+Other abnormal immunological findings in serum
+Raised antibody titer
+Nonspecific reaction to test for tuberculosis
+Nonspecific reaction to tuberculin skin test without active tuberculosis
+Nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis
+Other specified abnormal immunological findings in serum
+Abnormal immunological finding in serum, unspecified
+Other abnormalities of plasma proteins
+Abnormality of albumin
+Abnormality of globulin
+Abnormality of alphafetoprotein
+Other specified abnormalities of plasma proteins
+Abnormality of plasma protein, unspecified
+Findings of drugs and other substances, not normally found in blood
+Finding of alcohol in blood
+Finding of opiate drug in blood
+Finding of cocaine in blood
+Finding of hallucinogen in blood
+Finding of other drugs of addictive potential in blood
+Finding of other psychotropic drug in blood
+Finding of steroid agent in blood
+Finding of abnormal level of heavy metals in blood
+Abnormal lead level in blood
+Finding of abnormal level of heavy metals in blood
+Finding of other specified substances, not normally found in blood
+Bacteremia
+Finding of other specified substances, not normally found in blood
+Finding of unspecified substance, not normally found in blood
+Other abnormal findings of blood chemistry
+Abnormal level of blood mineral
+Abnormal coagulation profile
+Other specified abnormal findings of blood chemistry
+Abnormal blood-gas level
+Elevated C-reactive protein (CRP)
+Other specified abnormal findings of blood chemistry
+Abnormal finding of blood chemistry, unspecified
+Proteinuria
+Isolated proteinuria
+Persistent proteinuria, unspecified
+Orthostatic proteinuria, unspecified
+Bence Jones proteinuria
+Other proteinuria
+Proteinuria, unspecified
+Glycosuria
+Other and unspecified abnormal findings in urine
+Chyluria
+Myoglobinuria
+Biliuria
+Hemoglobinuria
+Acetonuria
+Elevated urine levels of drugs, medicaments and biological substances
+Abnormal urine levels of substances chiefly nonmedicinal as to source
+Abnormal findings on microbiological examination of urine
+Bacteriuria
+Other abnormal findings on microbiological examination of urine
+Abnormal findings on cytological and histological examination of urine
+Other and unspecified abnormal findings in urine
+Unspecified abnormal findings in urine
+Other chromoabnormalities of urine
+Other abnormal findings in urine
+Hypocitraturia
+Hyperoxaluria
+Hyperuricoscuria
+Hypercalciuria
+Other abnormal findings in urine
+Abnormal findings in cerebrospinal fluid
+Abnormal level of enzymes in cerebrospinal fluid
+Abnormal level of hormones in cerebrospinal fluid
+Abnormal level of other drugs, medicaments and biological substances in cerebrospinal fluid
+Abnormal level of substances chiefly nonmedicinal as to source in cerebrospinal fluid
+Abnormal immunological findings in cerebrospinal fluid
+Abnormal microbiological findings in cerebrospinal fluid
+Abnormal cytological findings in cerebrospinal fluid
+Other abnormal findings in cerebrospinal fluid
+Unspecified abnormal finding in cerebrospinal fluid
+Abnormal findings in specimens from respiratory organs and thorax
+Abnormal level of enzymes in specimens from respiratory organs and thorax
+Abnormal level of hormones in specimens from respiratory organs and thorax
+Abnormal level of other drugs, medicaments and biological substances in specimens from respiratory organs and thorax
+Abnormal level of substances chiefly nonmedicinal as to source in specimens from respiratory organs and thorax
+Abnormal immunological findings in specimens from respiratory organs and thorax
+Abnormal microbiological findings in specimens from respiratory organs and thorax
+Abnormal cytological findings in specimens from respiratory organs and thorax
+Abnormal histological findings in specimens from respiratory organs and thorax
+Other abnormal findings in specimens from respiratory organs and thorax
+Unspecified abnormal finding in specimens from respiratory organs and thorax
+Abnormal findings in specimens from digestive organs and abdominal cavity
+Abnormal level of enzymes in specimens from digestive organs and abdominal cavity
+Abnormal level of hormones in specimens from digestive organs and abdominal cavity
+Abnormal level of other drugs, medicaments and biological substances in specimens from digestive organs and abdominal cavity
+Abnormal level of substances chiefly nonmedicinal as to source in specimens from digestive organs and abdominal cavity
+Abnormal immunological findings in specimens from digestive organs and abdominal cavity
+Abnormal microbiological findings in specimens from digestive organs and abdominal cavity
+Abnormal cytological findings in specimens from digestive organs and abdominal cavity
+Abnormal cytologic smear of anus
+Atypical squamous cells of undetermined significance on cytologic smear of anus (ASC-US)
+Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of anus (ASC-H)
+Low grade squamous intraepithelial lesion on cytologic smear of anus (LGSIL)
+High grade squamous intraepithelial lesion on cytologic smear of anus (HGSIL)
+Cytologic evidence of malignancy on smear of anus
+Unsatisfactory cytologic smear of anus
+Satisfactory anal smear but lacking transformation zone
+Other abnormal cytological findings on specimens from anus
+Unspecified abnormal cytological findings in specimens from anus
+Abnormal cytological findings in specimens from other digestive organs and abdominal cavity
+Abnormal histological findings in specimens from digestive organs and abdominal cavity
+Other abnormal findings in specimens from digestive organs and abdominal cavity
+Anal high risk human papillomavirus (HPV) DNA test positive
+Anal low risk human papillomavirus (HPV) DNA test positive
+Other abnormal findings in specimens from digestive organs and abdominal cavity
+Unspecified abnormal finding in specimens from digestive organs and abdominal cavity
+Abnormal findings in specimens from male genital organs
+Abnormal level of enzymes in specimens from male genital organs
+Abnormal level of hormones in specimens from male genital organs
+Abnormal level of other drugs, medicaments and biological substances in specimens from male genital organs
+Abnormal level of substances chiefly nonmedicinal as to source in specimens from male genital organs
+Abnormal immunological findings in specimens from male genital organs
+Abnormal microbiological findings in specimens from male genital organs
+Abnormal cytological findings in specimens from male genital organs
+Abnormal histological findings in specimens from male genital organs
+Other abnormal findings in specimens from male genital organs
+Unspecified abnormal finding in specimens from male genital organs
+Abnormal findings in specimens from female genital organs
+Abnormal level of enzymes in specimens from female genital organs
+Abnormal level of hormones in specimens from female genital organs
+Abnormal level of other drugs, medicaments and biological substances in specimens from female genital organs
+Abnormal level of substances chiefly nonmedicinal as to source in specimens from female genital organs
+Abnormal immunological findings in specimens from female genital organs
+Abnormal microbiological findings in specimens from female genital organs
+Abnormal cytological findings in specimens from female genital organs
+Abnormal cytological findings in specimens from cervix uteri
+Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US)
+Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)
+Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL)
+High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)
+Cytologic evidence of malignancy on smear of cervix
+Unsatisfactory cytologic smear of cervix
+Satisfactory cervical smear but lacking transformation zone
+Other abnormal cytological findings on specimens from cervix uteri
+Unspecified abnormal cytological findings in specimens from cervix uteri
+Abnormal cytological findings in specimens from vagina
+Atypical squamous cells of undetermined significance on cytologic smear of vagina (ASC-US)
+Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of vagina (ASC-H)
+Low grade squamous intraepithelial lesion on cytologic smear of vagina (LGSIL)
+High grade squamous intraepithelial lesion on cytologic smear of vagina (HGSIL)
+Cytologic evidence of malignancy on smear of vagina
+Unsatisfactory cytologic smear of vagina
+Other abnormal cytological findings on specimens from vagina
+Unspecified abnormal cytological findings in specimens from vagina
+Abnormal cytological findings in specimens from other female genital organs
+Abnormal histological findings in specimens from female genital organs
+Other abnormal findings in specimens from female genital organs
+High risk human papillomavirus (HPV) DNA test positive from female genital organs
+Cervical high risk human papillomavirus (HPV) DNA test positive
+Vaginal high risk human papillomavirus (HPV) DNA test positive
+Low risk human papillomavirus (HPV) DNA test positive from female genital organs
+Cervical low risk human papillomavirus (HPV) DNA test positive
+Vaginal low risk human papillomavirus (HPV) DNA test positive
+Other abnormal findings in specimens from female genital organs
+Unspecified abnormal finding in specimens from female genital organs
+Abnormal findings in other body fluids and substances
+Cloudy (hemodialysis) (peritoneal) dialysis effluent
+Abnormal findings in other body fluids and substances
+Abnormal findings in specimens from other organs, systems and tissues
+Abnormal level of enzymes in specimens from other organs, systems and tissues
+Abnormal level of hormones in specimens from other organs, systems and tissues
+Abnormal level of other drugs, medicaments and biological substances in specimens from other organs, systems and tissues
+Abnormal level of substances chiefly nonmedicinal as to source in specimens from other organs, systems and tissues
+Abnormal immunological findings in specimens from other organs, systems and tissues
+Abnormal microbiological findings in specimens from other organs, systems and tissues
+Abnormal cytological findings in specimens from other organs, systems and tissues
+Abnormal histological findings in specimens from other organs, systems and tissues
+Other abnormal findings in specimens from other organs, systems and tissues
+Unspecified abnormal finding in specimens from other organs, systems and tissues
+Abnormal findings on diagnostic imaging of central nervous system
+Intracranial space-occupying lesion found on diagnostic imaging of central nervous system
+Other abnormal findings on diagnostic imaging of central nervous system
+Abnormal echoencephalogram
+White matter disease, unspecified
+Other abnormal findings on diagnostic imaging of central nervous system
+Abnormal findings on diagnostic imaging of lung
+Solitary pulmonary nodule
+Other nonspecific abnormal finding of lung field
+Abnormal and inconclusive findings on diagnostic imaging of breast
+Mammographic microcalcification found on diagnostic imaging of breast
+Mammographic calcification found on diagnostic imaging of breast
+Inconclusive mammogram
+Other abnormal and inconclusive findings on diagnostic imaging of breast
+Abnormal findings on diagnostic imaging of other body structures
+Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified
+Abnormal findings on diagnostic imaging of heart and coronary circulation
+Abnormal findings on diagnostic imaging of liver and biliary tract
+Abnormal findings on diagnostic imaging of other parts of digestive tract
+Abnormal findings on diagnostic imaging of urinary organs
+Abnormal radiologic findings on diagnostic imaging of renal pelvis, ureter, or bladder
+Abnormal radiologic findings on diagnostic imaging of kidney
+Abnormal radiologic findings on diagnostic imaging of right kidney
+Abnormal radiologic findings on diagnostic imaging of left kidney
+Abnormal radiologic findings on diagnostic imaging of unspecified kidney
+Abnormal radiologic findings on diagnostic imaging of other urinary organs
+Abnormal findings on diagnostic imaging of other abdominal regions, including retroperitoneum
+Abnormal findings on diagnostic imaging of limbs
+Abnormal findings on diagnostic imaging of other parts of musculoskeletal system
+Abnormal findings on diagnostic imaging of other specified body structures
+Abnormal radiologic findings on diagnostic imaging of testis
+Abnormal radiologic findings on diagnostic imaging of right testicle
+Abnormal radiologic findings on diagnostic imaging of left testicle
+Abnormal radiologic findings on diagnostic imaging of testicles, bilateral
+Abnormal radiologic findings on diagnostic imaging of unspecified testicle
+Abnormal findings on diagnostic imaging of other specified body structures
+Diagnostic imaging inconclusive due to excess body fat of patient
+Abnormal results of function studies
+Abnormal results of function studies of central nervous system
+Abnormal electroencephalogram [EEG]
+Abnormal brain scan
+Abnormal results of other function studies of central nervous system
+Abnormal results of function studies of peripheral nervous system and special senses
+Abnormal results of function studies of eye
+Abnormal electro-oculogram [EOG]
+Abnormal electroretinogram [ERG]
+Abnormal visually evoked potential [VEP]
+Abnormal oculomotor study
+Abnormal results of other function studies of eye
+Abnormal results of function studies of ear and other special senses
+Abnormal auditory function study
+Abnormal vestibular function study
+Abnormal results of other function studies of ear and other special senses
+Abnormal results of function studies of peripheral nervous system
+Abnormal response to nerve stimulation, unspecified
+Abnormal electromyogram [EMG]
+Abnormal results of other function studies of peripheral nervous system
+Abnormal results of pulmonary function studies
+Abnormal results of cardiovascular function studies
+Abnormal result of cardiovascular function study, unspecified
+Abnormal electrocardiogram [ECG] [EKG]
+Abnormal result of other cardiovascular function study
+Abnormal results of kidney function studies
+Abnormal results of liver function studies
+Abnormal results of thyroid function studies
+Abnormal results of other endocrine function studies
+Abnormal results of function studies of other organs and systems
+Abnormal tumor markers
+Elevated carcinoembryonic antigen [CEA]
+Elevated cancer antigen 125 [CA 125]
+Elevated prostate specific antigen [PSA]
+Elevated prostate specific antigen [PSA]
+Rising PSA following treatment for malignant neoplasm of prostate
+Other abnormal tumor markers
+Ill-defined and unknown cause of mortality
