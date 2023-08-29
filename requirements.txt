@@ -3,3 +3,5 @@ clarifai-grpc
 streamlit
 streamlit-chat
 langchain
+streamlit-feedback
+redis

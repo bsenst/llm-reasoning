@@ -2,13 +2,22 @@ import streamlit as st
 from langchain.llms import Clarifai
 from langchain import PromptTemplate, LLMChain
 
+import uuid
+import redis
+from redis.commands.json.path import Path
+from streamlit_feedback import streamlit_feedback
+
+client = redis.Redis(host=st.secrets.REDIS_HOST, port=st.secrets.REDIS_PORT, db=st.secrets.REDIS_DB, password=st.secrets.REDIS_PASSWORD)
+
 # Streamlit UI
 st.title("Clinical Reasoning Support")
 st.caption("This reasoning support does not replace clinical expertise. It is for experimental use only.")
 
 model_id = st.selectbox("Select a large language model: ",
-    ('llama2-13b-chat',
-    'llama2-7b-chat'))
+    ('llama2-7b-chat',
+     'llama2-13b-chat'))
+
+st.caption("Llama-2, an open-source LLM, published by Meta, provided by Clarifai https://clarifai.com/meta/Llama-2")
 
 # https://python.langchain.com/docs/integrations/llms/clarifai
 clarifai_llm = Clarifai(
@@ -49,30 +58,36 @@ with open("symptoms.txt") as infile:
 
 # Dropdown menu for selecting a term
 selected_term = st.multiselect("Choose one or more symptom(s):", selected_terms)
-
 selected_term = selected_term + selected_icd
 
-def clean_output(output):
-    cleaned_output = []
-    for line in [line for line in output.split("\n") if line!=""]:
-        if "." in line:
-            if line.split(".")[0][-1].isnumeric():
-                cleaned_output.append(line)
-            else:
-                break
-    return "\n".join(cleaned_output)
-
-# Button to generate output
 if st.button("Generate List of Differential Diagnoses"):
-    if selected_term:
-        st.write(f"Selected symptoms(s): {'; '.join(selected_term)}")
-        differential_diagnoses = llm_chain.run(" ".join(selected_term))
-        differential_diagnoses = clean_output(differential_diagnoses)
-        st.header("Differential Diagnoses")
-        st.write(differential_diagnoses)
-        st.header("Diagnostic Workup")
-        diagnostic_workup = llm_chain2.run(differential_diagnoses)
-        st.write(diagnostic_workup)
 
+    if selected_term:
+        st.session_state["selected_term"] = selected_term
+        differential_diagnoses = llm_chain.run(" ".join(selected_term))
+        st.session_state["differential_diagnoses"] = differential_diagnoses
+        diagnostic_workup = llm_chain2.run(differential_diagnoses)
+        st.session_state["diagnostic_workup"] = diagnostic_workup
+        
     else:
         st.write("Please select a single or several symptoms from the dropdown menu.")
+
+if "selected_term" in st.session_state:
+    st.write(f'Selected symptoms(s): {"; ".join(st.session_state["selected_term"])}')
+    st.header("Differential Diagnoses")
+    st.write(st.session_state["differential_diagnoses"])
+    st.header("Diagnostic Workup")
+    st.write(st.session_state["diagnostic_workup"])
+
+if "selected_term" in st.session_state:
+
+    st.session_state["feedback"] = streamlit_feedback(
+        feedback_type="thumbs",
+        align="flex-start",
+    )
+
+    st.caption("Give feedback to let us know what you think and report the symptoms, differential diagnoses and diagnostic workup.")
+    
+    if st.session_state["feedback"]:
+        st.session_state["feedback"]["text"] = f'{st.session_state["selected_term"]}|{st.session_state["differential_diagnoses"]}|{st.session_state["diagnostic_workup"]}'
+        client.json().set(f'user:{uuid.uuid4()}', '$', st.session_state["feedback"])
