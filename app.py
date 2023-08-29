@@ -7,7 +7,10 @@ import redis
 from redis.commands.json.path import Path
 from streamlit_feedback import streamlit_feedback
 
-client = redis.Redis(host=st.secrets.REDIS_HOST, port=st.secrets.REDIS_PORT, db=st.secrets.REDIS_DB, password=st.secrets.REDIS_PASSWORD)
+import os
+
+# client = redis.Redis(host=st.secrets.REDIS_HOST, port=st.secrets.REDIS_PORT, db=st.secrets.REDIS_DB, password=st.secrets.REDIS_PASSWORD)
+client = redis.Redis(host=os.environ.get("REDIS-HOST"), port=os.environ.get("REDIS-PORT"), db=os.environ.get("REDIS-DB"), password=os.environ.get("REDIS-PASSWORD"))
 
 # Streamlit UI
 st.title("Clinical Reasoning Support")
@@ -20,8 +23,11 @@ model_id = st.selectbox("Select a large language model: ",
 st.caption("Llama-2, an open-source LLM, published by Meta, provided by Clarifai https://clarifai.com/meta/Llama-2")
 
 # https://python.langchain.com/docs/integrations/llms/clarifai
+# clarifai_llm = Clarifai(
+#     pat=st.secrets.PAT, user_id='meta', app_id='Llama-2', model_id=model_id, 
+# )
 clarifai_llm = Clarifai(
-    pat=st.secrets.PAT, user_id='meta', app_id='Llama-2', model_id=model_id, 
+    pat=os.environ.get("PAT"), user_id='meta', app_id='Llama-2', model_id=model_id, 
 )
 
 template = """Symptom or list of symptoms: {symptom}
@@ -87,7 +93,7 @@ if "selected_term" in st.session_state:
     )
 
     st.caption("Give feedback to let us know what you think and report the symptoms, differential diagnoses and diagnostic workup.")
-    
+
     if st.session_state["feedback"]:
         st.session_state["feedback"]["text"] = f'{st.session_state["selected_term"]}|{st.session_state["differential_diagnoses"]}|{st.session_state["diagnostic_workup"]}'
         client.json().set(f'user:{uuid.uuid4()}', '$', st.session_state["feedback"])
