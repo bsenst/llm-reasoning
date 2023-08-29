@@ -10,9 +10,14 @@ Clinical processes are speeding up to keep pace with the growing workload. The a
 
 As Technology advances in the field of Natural Language Processing collecting and analysing huge collections of data becomes more feasible. This offers chances to keep up with medical progress, consider complex patient cases and support reasoning at the point of care and just in time.
 
-This application serves an open source large language model Llama-2 that is connect to a streamlit user interface. The user can define a list of custom symptoms or ICD-10 symptoms as input to the LLM. A two-step chain of prompts will output a numbered list of differential diagnoses followed by a numbered list of examinations to workup these diagnoses.
+This application serves an open source large language model Llama-2 that is connect to a streamlit user interface. The user can define a list of custom symptoms or ICD-10 symptoms as input to the LLM. A two-step chain of prompts will output a list of differential diagnoses followed by a list of examinations to workup these diagnoses.
 
 This experimental applications offers an impression on the perfomance of smaller LLM in diagnostic reasoning.
+
+## ToDo
+
+- [ ] Image of Architecture
+- [ ] Screencast
 
 ## Next Steps
 
