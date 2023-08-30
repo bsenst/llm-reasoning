@@ -14,6 +14,8 @@ As Technology advances in the field of Natural Language Processing collecting an
 
 This application serves an open source large language model Llama-2 that is connect to a streamlit user interface. The user can define a list of custom symptoms or ICD-10 symptoms as input to the LLM. A two-step chain of prompts will output a list of differential diagnoses followed by a list of examinations to workup these diagnoses. This experimental applications offers an impression on the perfomance of smaller LLM in diagnostic reasoning.
 
+![image](https://github.com/bsenst/llm-reasoning/assets/8211411/378733a0-6556-4b68-93d9-a057904c2c04)
+
 Videopresentation: https://youtu.be/kZszmwmItKA
 
 ## Next Steps
