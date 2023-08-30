@@ -4,22 +4,17 @@
 
 ## Problem Statement
 
-Clinical processes are speeding up to keep pace with the growing workload. The ageing of societies results in more complex cases. Medical progress produces vast amounts of knowledge resulting in the need to specialization and subspecialisation of medical professions. In everyday practice consulting patients with a plentitude of complaints gets more and more challenging.
+Clinical processes are speeding due to the growing workload. The ageing of societies results in more complex cases. Medical progress produces vast amounts of knowledge resulting in the need for specialization and subspecialization of medical professions. In everyday practice consulting patients with a plentitude of complaints gets more and more challenging.
 
 ## Solution 
 
 As Technology advances in the field of Natural Language Processing collecting and analysing huge collections of data becomes more feasible. This offers chances to keep up with medical progress, consider complex patient cases and support reasoning at the point of care and just in time.
 
-![architecture-llm-reasoning drawio](https://github.com/bsenst/llm-reasoning/assets/8211411/ff1cfb5d-03c2-4b31-a105-515d33f7a085)
+![architecture-llm-reasoning drawio (1)](https://github.com/bsenst/llm-reasoning/assets/8211411/50a88401-8225-4be8-a87d-29c625e11f4f)
 
-This application serves an open source large language model Llama-2 that is connect to a streamlit user interface. The user can define a list of custom symptoms or ICD-10 symptoms as input to the LLM. A two-step chain of prompts will output a list of differential diagnoses followed by a list of examinations to workup these diagnoses.
+This application serves an open source large language model Llama-2 that is connect to a streamlit user interface. The user can define a list of custom symptoms or ICD-10 symptoms as input to the LLM. A two-step chain of prompts will output a list of differential diagnoses followed by a list of examinations to workup these diagnoses. This experimental applications offers an impression on the perfomance of smaller LLM in diagnostic reasoning.
 
-This experimental applications offers an impression on the perfomance of smaller LLM in diagnostic reasoning.
-
-## ToDo
-
-- [x] Image of Architecture
-- [ ] Screencast
+Videopresentation: https://youtu.be/kZszmwmItKA
 
 ## Next Steps
 
