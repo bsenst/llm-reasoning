@@ -8,7 +8,8 @@ from redis.commands.json.path import Path
 from streamlit_feedback import streamlit_feedback
 
 # connect to redis database
-client = redis.Redis(host=os.environ.get("REDIS-HOST"), port=os.environ.get("REDIS-PORT"), db=os.environ.get("REDIS-DB"), password=os.environ.get("REDIS-PASSWORD"))
+# client = redis.Redis(host=os.environ.get("REDIS-HOST"), port=os.environ.get("REDIS-PORT"), db=os.environ.get("REDIS-DB"), password=os.environ.get("REDIS-PASSWORD"))
+client = redis.Redis(host=st.secrets["REDIS-HOST"], port=st.secrets["REDIS-PORT"], db=st.secrets["REDIS-DB"], password=st.secrets["REDIS-PASSWORD"])
 
 st.title("Clinical Reasoning Support")
 st.caption("This reasoning support does not replace clinical expertise. It is for experimental use only.")
@@ -20,8 +21,11 @@ model_id = st.selectbox("Select a large language model: ",
 st.caption("Llama-2, an open-source LLM, published by Meta, provided by Clarifai https://clarifai.com/meta/Llama-2")
 
 # https://python.langchain.com/docs/integrations/llms/clarifai
+# clarifai_llm = Clarifai(
+#     pat=os.environ.get("PAT"), user_id='meta', app_id='Llama-2', model_id=model_id, 
+# )
 clarifai_llm = Clarifai(
-    pat=os.environ.get("PAT"), user_id='meta', app_id='Llama-2', model_id=model_id, 
+    pat=st.secrets["PAT"], user_id='meta', app_id='Llama-2', model_id=model_id, 
 )
 
 # create LLM chain
