@@ -1,7 +1,7 @@
-clarifai
 clarifai-grpc
 streamlit
 streamlit-chat
-langchain
 streamlit-feedback
 redis
+clarifai==9.8.0
+langchain==0.0.281
